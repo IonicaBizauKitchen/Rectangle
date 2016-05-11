@@ -1,2 +1,2 @@
 # Rectangle
-Calculates the are and the perimeter of a rectang;e
+Calculates the area and the perimeter of a rectangle.
